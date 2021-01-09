@@ -1,0 +1,498 @@
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.exe
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.xml
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.pdb
+H:\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.exe
+H:\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.pdb
+H:\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.xml
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\ResolveAssemblyReference.cache
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail.rpt
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmCustomer.resources
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryInventory.resources
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryCustomer.resources
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryItem.resources
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryPurchasing.resources
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryUserAccount.resources
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmInventory.resources
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmItems.resources
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmLogIn.resources
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmMain.resources
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPurchasing.resources
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmUserAccount.resources
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Resources.resources
+H:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.vbproj.GenerateResource.Cache
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.exe
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.xml
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.pdb
+G:\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.exe
+G:\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.pdb
+G:\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.xml
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\ResolveAssemblyReference.cache
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.MasterListItems.rpt
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Customer.rpt
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmCustomer.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryPurchased.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryCustomer.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryItem.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySales.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryUserAccount.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryVendor.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPurchased.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmItems.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmLogIn.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmMain.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSales.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmUserAccount.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmVendor.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Resources.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintSales.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.vwfrmAdmin.resources
+G:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.vbproj.GenerateResource.Cache
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.exe
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.xml
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.pdb
+F:\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.exe
+F:\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.pdb
+F:\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.xml
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\ResolveAssemblyReference.cache
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Purchased.rpt
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.MasterListItems.rpt
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Customer.rpt
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Date.rpt
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_DRNo.rpt
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_ItemNo.rpt
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UCustomer.rpt
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDate.rpt
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDRNo.rpt
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UItemNo.rpt
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UMasterListItems.rpt
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UPurchased.rpt
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmAdjustment.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmCustomer.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmDatabase.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryPurchased.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryCustomer.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryItem.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySales.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryUserAccount.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryVendor.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPurchased.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmItems.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmLogIn.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmMain.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSales.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmTransMon.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmUserAccount.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmVendor.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Resources.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintPurchased.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintSales.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.vwfrmAdmin.resources
+F:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.vbproj.GenerateResource.Cache
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.exe
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.pdb
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.xml
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Purchased.rpt
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.MasterListItems.rpt
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Customer.rpt
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Date.rpt
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_DRNo.rpt
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_ItemNo.rpt
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UCustomer.rpt
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDate.rpt
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDRNo.rpt
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UItemNo.rpt
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UMasterListItems.rpt
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UPurchased.rpt
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmAdjustment.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmCustomer.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmDatabase.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryPurchased.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryCustomer.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryItem.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySales.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryUserAccount.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryVendor.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPurchased.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmItems.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmLogIn.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmMain.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSales.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmTransMon.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmUserAccount.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmVendor.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Resources.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintPurchased.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintSales.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.vwfrmAdmin.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.vbproj.GenerateResource.Cache
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.exe
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.xml
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.pdb
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.exe
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.pdb
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.xml
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Purchased.rpt
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.MasterListItems.rpt
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Customer.rpt
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Date.rpt
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_DRNo.rpt
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_ItemNo.rpt
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UCustomer.rpt
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDate.rpt
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDRNo.rpt
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UItemNo.rpt
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UIndPurchased.rpt
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UMasterListItems.rpt
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UPurchased.rpt
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmAdjustment.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmCustomer.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmDatabase.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryPurchased.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryCustomer.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryItem.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySales.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryUserAccount.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryVendor.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPurchased.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmItems.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmLogIn.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmMain.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSales.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSearchItem.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmTransMon.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmUserAccount.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmVendor.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Resources.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintPurchased.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintSales.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.vwfrmAdmin.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.vbproj.GenerateResource.Cache
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.exe
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.xml
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.pdb
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.exe
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.xml
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.pdb
+D:\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.exe
+D:\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.pdb
+D:\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.xml
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\ResolveAssemblyReference.cache
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Purchased.rpt
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.MasterListItems.rpt
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Customer.rpt
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Date.rpt
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_DRNo.rpt
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_ItemNo.rpt
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UCustomer.rpt
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDate.rpt
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDRNo.rpt
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UItemNo.rpt
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UIndPurchased.rpt
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UMasterListItems.rpt
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UPurchased.rpt
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmAdjustment.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmCustomer.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmDatabase.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryPurchased.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryCustomer.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryItem.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySales.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryUserAccount.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryVendor.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPurchased.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmItems.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmLogIn.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmMain.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSales.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSearchItem.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmTransMon.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmUserAccount.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmVendor.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Resources.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintPurchased.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintSales.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.vwfrmAdmin.resources
+D:\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.vbproj.GenerateResource.Cache
+G:\original\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.exe
+G:\original\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.xml
+G:\original\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.pdb
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UIndPurchased.rpt
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSearchItem.resources
+C:\Users\MIS\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySalesMulti.resources
+C:\Users\CyberCat\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySalesMulti.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.exe
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.xml
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.pdb
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.exe
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.pdb
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.xml
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Purchased.rpt
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.MasterListItems.rpt
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Customer.rpt
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Date.rpt
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_DRNo.rpt
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_ItemNo.rpt
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UCustomer.rpt
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDate.rpt
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDRNo.rpt
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UItemNo.rpt
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UIndPurchased.rpt
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UMasterListItems.rpt
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UPurchased.rpt
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmAdjustment.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmCustomer.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmDatabase.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryPurchased.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryCustomer.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryItem.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySales.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySalesMulti.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryUserAccount.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryVendor.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPurchased.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmItems.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmLogIn.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmMain.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSales.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSearchItem.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmTransMon.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmUserAccount.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmVendor.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Resources.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintPurchased.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintSales.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.vwfrmAdmin.resources
+C:\Users\Aldwin Solis\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.vbproj.GenerateResource.Cache
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.exe
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.xml
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.pdb
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.exe
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.pdb
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.xml
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\ResolveAssemblyReference.cache
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Purchased.rpt
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.MasterListItems.rpt
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Customer.rpt
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Date.rpt
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_DRNo.rpt
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_ItemNo.rpt
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UCustomer.rpt
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDate.rpt
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDRNo.rpt
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UItemNo.rpt
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UIndPurchased.rpt
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UMasterListItems.rpt
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UPurchased.rpt
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmAdjustment.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmCustomer.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmDatabase.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryPurchased.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryCustomer.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryItem.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySales.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySalesMulti.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryUserAccount.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryVendor.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPurchased.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmItems.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmLogIn.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmMain.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSales.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSearchItem.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmTransMon.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmUserAccount.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmVendor.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Resources.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintPurchased.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintSales.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.vwfrmAdmin.resources
+D:\My Programs\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.vbproj.GenerateResource.Cache
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.exe
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.xml
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.pdb
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.exe
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.pdb
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.xml
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Purchased.rpt
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.MasterListItems.rpt
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Customer.rpt
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Date.rpt
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_DRNo.rpt
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_ItemNo.rpt
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UCustomer.rpt
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDate.rpt
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDRNo.rpt
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UItemNo.rpt
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UIndPurchased.rpt
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UMasterListItems.rpt
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UPurchased.rpt
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmAdjustment.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmCustomer.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmDatabase.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryPurchased.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryCustomer.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryItem.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySales.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySalesMulti.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryUserAccount.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryVendor.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPurchased.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmItems.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmLogIn.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmMain.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSales.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSearchItem.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmTransMon.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmUserAccount.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmVendor.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Resources.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintPurchased.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintSales.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.vwfrmAdmin.resources
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.vbproj.GenerateResource.Cache
+C:\Users\Silver Fury\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryPurchasedMulti.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.exe
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.xml
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.pdb
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.exe
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.pdb
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.xml
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\ResolveAssemblyReference.cache
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Purchased.rpt
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.MasterListItems.rpt
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Customer.rpt
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Date.rpt
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_DRNo.rpt
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_ItemNo.rpt
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UCustomer.rpt
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDate.rpt
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDRNo.rpt
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UItemNo.rpt
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UIndPurchased.rpt
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UMasterListItems.rpt
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UPurchased.rpt
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmAdjustment.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmCustomer.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmDatabase.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryPurchased.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryCustomer.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryItem.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryPurchasedMulti.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySales.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySalesMulti.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryUserAccount.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryVendor.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPurchased.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmItems.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmLogIn.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmMain.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSales.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSearchItem.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmTransMon.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmUserAccount.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmVendor.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Resources.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintPurchased.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintSales.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.vwfrmAdmin.resources
+D:\Back-up 11-17-2010\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.vbproj.GenerateResource.Cache
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.xml
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.pdb
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.exe
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.pdb
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.xml
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Purchased.rpt
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.MasterListItems.rpt
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Customer.rpt
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Date.rpt
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_DRNo.rpt
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_ItemNo.rpt
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UCustomer.rpt
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDate.rpt
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDRNo.rpt
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UItemNo.rpt
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UIndPurchased.rpt
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UMasterListItems.rpt
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UPurchased.rpt
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmAdjustment.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmCustomer.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmDatabase.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryPurchased.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryCustomer.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryItem.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryPurchasedMulti.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySales.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySalesMulti.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryUserAccount.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryVendor.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPurchased.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmItems.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmLogIn.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmMain.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSales.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSearchItem.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmTransMon.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmUserAccount.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmVendor.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Resources.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintPurchased.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintSales.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.vwfrmAdmin.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.vbproj.GenerateResource.Cache
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.exe
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.IndSales.rpt
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintSalesInd.resources
+C:\Users\Silver\Desktop\Electri Parts DBMS\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Inventory.rpt
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.exe
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.xml
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.pdb
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.exe
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.pdb
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\bin\Debug\Electri Parts DBMS.xml
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\ResolveAssemblyReference.cache
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.IndSales.rpt
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Purchased.rpt
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.MasterListItems.rpt
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Customer.rpt
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_Date.rpt
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_DRNo.rpt
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_ItemNo.rpt
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Inventory.rpt
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UCustomer.rpt
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDate.rpt
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UDRNo.rpt
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.SalesByCustomerDetail_UItemNo.rpt
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UIndPurchased.rpt
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UMasterListItems.rpt
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.UPurchased.rpt
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmAdjustment.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmCustomer.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmDatabase.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryPurchased.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryCustomer.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryItem.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryPurchasedMulti.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySales.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntrySalesMulti.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryUserAccount.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmEntryVendor.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPurchased.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmItems.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmLogIn.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmMain.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSales.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmSearchItem.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmTransMon.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmUserAccount.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmVendor.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.Resources.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintPurchased.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintSales.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.frmPrintSalesInd.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri_Parts_DBMS.vwfrmAdmin.resources
+D:\Test Folder\Electri Parts DBMS (Teller)\Electri Parts DBMS\obj\Debug\Electri Parts DBMS.vbproj.GenerateResource.Cache
